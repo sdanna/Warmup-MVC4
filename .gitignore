@@ -78,8 +78,8 @@ publish
 # Publish Web Output
 *.Publish.xml
 
-# NuGet Packages Directory
-packages
+# NuGet Packages Directory - We want packages in source control.  This assures that a down internet connection OR nuget being down doesn't take out our builds.
+# packages
 
 # Windows Azure Build Output
 csx
