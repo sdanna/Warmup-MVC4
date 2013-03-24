@@ -2,8 +2,9 @@
 [Bb]in/
 [Oo]bj/
 
-# Ignore App_Data folder
-[Aa]pp_[Dd]ata/
+# Ignore database files
+*.mdf
+*.ldf
 
 # mstest test results
 TestResults
