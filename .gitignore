@@ -2,6 +2,9 @@
 [Bb]in/
 [Oo]bj/
 
+# Ignore App_Data folder
+[Aa]pp_[Dd]ata/
+
 # mstest test results
 TestResults
 
